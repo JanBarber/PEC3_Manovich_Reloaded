@@ -12,7 +12,7 @@ Fecha: 24/05/2023
 ## Planteamiento
 
 
-La historia sociocultural de la población evoluciona. Desde la primera muestra de vida hasta hoy siempre se ha podido ver una evolución y un progreso, ya sea por supervivencia o por el afán de aprender. Led Manovich habla de la evolución del ser humano y su visión de la vida centrándose en la era tecnológica. Habla de la evolución de los medios y del software y cómo ha cambiado nuestra forma de vivir, de ver la vida y de actuar en ella a través de "las gafas de Manovich". 
+La historia sociocultural de la población evoluciona. Desde la primera muestra de vida hasta hoy siempre se ha podido ver una evolución y un progreso, ya sea por supervivencia o por el afán de aprender. Lev Manovich habla de la evolución del ser humano y su visión de la vida centrándose en la era tecnológica. Habla de la evolución de los medios y del software y cómo ha cambiado nuestra forma de vivir, de ver la vida y de actuar en ella a través de "las gafas de Manovich". 
 
 Manovich invita a todos sus lectores a arpender sobre el gran cambio en la humanidad desde la llegada de la tecnología, no solo como hemos cambiado nuestra forma de actuar sino también como hemos cambiado nuestra forma de entender el día a día. En su obra, Manovich habla de conceptos tan importantes como la multimedia, la remediación, la transcodificación, la hibridación... Hoy nos centraremos en esta última a través de un fenómeno conocido internacionalmente y que esta teniendo revuelo estos últimos años: el uso de la tecnología para la creación de cultura de forma digital. 
 
@@ -46,7 +46,9 @@ Sin duda, este es otro gran ejemplo de hibridación. Si nos ponemos las "gafas d
 
 ### Conclusión
 
-Vemos gracias a estos dos casos como la tecnología ha revolucionado nuestras vidas y nos ha hecho cambiar social y culturalmente 
+Vemos gracias a estos dos casos como la tecnología ha revolucionado nuestras vidas y nos ha hecho cambiar social y culturalmente. Lev Manovich pide que hagamos una crítica de todos estos aspectos mediante las "gafas de Manovich" para así entender de mejor forma el presente y el futuro en el que vivimos y poder ver la evolución del software en nuestra historia. 
+
+Con Hatsune Miku podemos ver como la industria musical ha ido evolucionando también con la llegada de la tecnología y, de cada vez, se ve más música creada de forma virtual. Con Dall-e, tocamos otro aspecto de la cultura como es la creación visual y vemos que también está cambiando con la llegada de softwares y otros productos tecnológicos. Por tanto, el contexto sociocultural en el que vivimos se está viendo afectado por el software de cada vez más y ya es una realidad que, mediante la hibridación de lo tradicional y lo tecnológico, el futuro va a estar repleto de cambios constantes.
 
 ### Referencias y Bibliografía
 
