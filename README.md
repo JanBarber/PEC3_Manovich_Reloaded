@@ -19,7 +19,7 @@ Manovich invita a todos sus lectores a arpender sobre el gran cambio en la human
 La hibridación para Manovich no es lo mismo que la multimedia, aunque se pueda confundir. Mientras la multimedia consiste en la unificación de información perteneciente a distintos medios, por ejemplo el formato mp4 junta video y audio, la hibridación va un paso más allá unificando distintos medios para crear nuevos. Dos ejemplos de ello serían los dos casos de los que hablaremos a continuación: "Hatsune Miku y el Vocaloid" y "Dall-e y la inteligencia artificial".
 
 
-## Re-descubriendo la hibridacion: Hatsune Miku y Vocaloid
+## Re-descubriendo la hibridación: Hatsune Miku y Vocaloid
 
 Esta conocida cantante nacida en 2007 con el software "Miku Hatsune" creado con Vocaloid, fue una revolución de la industria musical. Esta artista es solo un holograma con una voz creada con un software, pero ya ha dado la vuelta al mundo.
 
@@ -31,7 +31,7 @@ Hatsune Miku ha sido la artista virtual más conocida y prolífica de la histori
 
 Si nos centramos en la visión de Manovich, podríamos hablar de que Hatsune Miku es, sin duda, un ejemplo de hibridación que ha triunfado en el mundo en el que vivimos. La mezcla de algo tan tradicional y antiguo como es la música se rompe con la llegada del software y crea una de las artistas más grandes de la historia moderna musical. Hatsune es la hibridación del software con el mundo de la música, y su historia lo demuestra. El hecho de que un personaje virtual sea capaz de cantar en conciertos en vivo mediante hologramas y un sistema de sonido llevado a cabo por un software (Vocaloid) y sea capaz de cobrar vida concediendo entrevistas en directo, demuestra que las nuevas tecnologías y sobretodo el software es el presente y el futuro.
 
-## Re-descubriendo la hibridacion: Dall-e y la inteligencia artificial
+## Re-descubriendo la hibridación: Dall-e y la inteligencia artificial
 
 Dall-e es una de las grandes inteligencias artificiales de la historia. Esta inteligencia artificial se caracteriza por la creación de imágenes digitales precedidas por una entrada de texto dada por el usuario que indica las reglas que debe intentar seguir la imagen. 
 
@@ -43,6 +43,10 @@ Las inteligencias artificiales son uno de los mayores avances tecnológicos de l
 Centrándonos en Dall-e, esta inteligencia artificial fue creada en 2021 por el ya antes mencionado OpenAI, un laboratorio de investigación de IA. Este software ha sido entrenado para entender el lenguaje natural y buscar con ello entre su galería gigantesca de imágenes para crear exactamente lo que se pide. Es capaz de combinar objetos, conceptos, estilos de pintura... con tal de dar un resultado lo más óptimo a la petición que se le da.
 
 Sin duda, este es otro gran ejemplo de hibridación. Si nos ponemos las "gafas de Manovich" podemos ver como la inteligencia artificial como por ejemplo Dall-e ha revolucionado el mundo y a demostrado un cambio sociocultural en nuestras vidas como es la forma de apreciar y hacer arte. En este caso, la forma de unir el mundo de las imágenes como puede ser pintura o fotografía con el software y su impacto tecnológico, hace de Dall-e un claro ejemplo de hibridación pues ha sido capaz de revolucionar la creación visual mediante la unión de lo tradicional y lo tecnológico y novedoso.
+
+### Conclusión
+
+Vemos gracias a estos dos casos como la tecnología ha revolucionado nuestras vidas y nos ha hecho cambiar social y culturalmente 
 
 ### Referencias y Bibliografía
 
